@@ -1,0 +1,2 @@
+sugar deploy
+sugar upload

@@ -1,3 +1,6 @@
+<h2>Para más informacion o ver el diseño de la pagina web puede recurrir a esta presentación de canva</h2>
+<a href ="https://www.canva.com/design/DAFRs-5B3Ag/GOT_zvqRiMcA_kp0mQ8EvA/view?utm_content=DAFRs-5B3Ag&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Canva Paqui Art</a>
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
